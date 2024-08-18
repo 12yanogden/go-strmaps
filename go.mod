@@ -1,3 +1,3 @@
-module github.com/12yanogden/strmaps
+module github.com/12yanogden/go-strmaps
 
-go 1.21.5
+go 1.23.0
